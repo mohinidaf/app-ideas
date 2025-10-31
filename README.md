@@ -20,7 +20,7 @@ Each project has the following **features**:
 
 1. A clear and descriptive objective;
 2. A list of _User Stories_ which should be implemented (these stories act more as a guideline than a forced list of _To-Do's_. Feel free to add your own stories if you want);
-3. A list of bonus features that not only improve the base project,but also your skills at the same time (these are optional and should be attempted only after you have completed the required user stories)
+3. A list of bonus features that not only improve the base project, but also your skills at the same time (these are optional and should be attempted only after you have completed the required user stories)
 4. All the resources and links to help you find what you need to complete the project
 
 Here you can [watch a video about this repository](https://www.youtube.com/watch?v=TNzCfgwIDCY).
